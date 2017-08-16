@@ -1,3 +1,5 @@
+# Use "#" at the begining of the line to indicate comments.
+# Those lines will be ignored by R when running the script.
 
 data <- read.csv(file = "~/Desktop/OSFworkshop/raw_data.csv", header = TRUE)
 
